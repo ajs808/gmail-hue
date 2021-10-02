@@ -37,6 +37,7 @@ def blinkRed():
 
 
 def main():
+    #refresh rate
     PERIOD = 60
     """Shows basic usage of the Gmail API.
     Lists the user's Gmail labels.
